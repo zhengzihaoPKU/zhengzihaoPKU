@@ -1,7 +1,5 @@
 <!-- ========================================================= -->
-
 <!--                 Zihao Zheng · GitHub Profile              -->
-
 <!-- ========================================================= -->
 
 <p align="right">
@@ -32,9 +30,9 @@
   <img src="https://img.shields.io/github/followers/zhengzihaoPKU?style=for-the-badge&logo=github&label=Follow&labelColor=0D1117&color=0D1117" />
 </a>
 
-`<br/><br/>`
+<br/><br/>
 
-**北京大学 · 计算机学院博士研究生**
+**北京大学 · 计算机学院博士研究生**  
 *面向物理世界中的智能体，研究高效、可部署、自适应的人工智能系统。*
 
 </div>
@@ -62,12 +60,12 @@
 
 <div align="center">
 
-| 🤖**物理智能** | ⚡**AI 系统** | 🧩**系统设计自动化** |
-| :------------------: | :-----------------: | :------------------------: |
-|   VLA / VLM / WAM   |      高效推理      |        设计空间探索        |
-|       具身智能       |      模型量化      |           AutoML           |
-|     端云协同部署     |      推测解码      |          自动优化          |
-|   具身运行时 / OS   |       端侧 AI       |          能效计算          |
+| 🤖 **物理智能** | ⚡ **AI 系统** | 🧩 **系统设计自动化** |
+|:---:|:---:|:---:|
+| VLA / VLM / WAM | 高效推理 | 设计空间探索 |
+| 具身智能 | 模型量化 | AutoML |
+| 端云协同部署 | 推测解码 | 自动优化 |
+| 具身运行时 / OS | 端侧 AI | 能效计算 |
 
 </div>
 
@@ -88,6 +86,54 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 [Robonix](https://github.com/syswonder/robonix)
+
+**具身智能操作系统**
+
+面向异构机器人平台，为具身智能系统提供统一的软件与系统支撑。
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/syswonder/robonix)
+[![Website](https://img.shields.io/badge/Project-robonix.ai-0891B2?style=flat-square&logo=googlechrome&logoColor=white)](https://robonix.ai/)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [KERV](https://zhengzihaopku.github.io/publication/2026-DAC)
+
+**面向具身 VLA 模型的运动学修正推测解码**  
+`DAC 2026`
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/zhengzihaoPKU/KERV)
+[![Paper](https://img.shields.io/badge/Paper-Project%20Page-4F46E5?style=flat-square&logo=readthedocs&logoColor=white)](https://zhengzihaopku.github.io/publication/2026-DAC)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ [RoboECC](https://zhengzihaopku.github.io/publication/2026-IJCNN)
+
+**面向 VLA 模型的多因素感知端云协同部署**  
+`IJCNN 2026`
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/zhengzihaoPKU/RoboECC)
+[![Paper](https://img.shields.io/badge/Paper-Project%20Page-0284C7?style=flat-square&logo=readthedocs&logoColor=white)](https://zhengzihaopku.github.io/publication/2026-IJCNN)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 [DynaMo](https://zhengzihaopku.github.io/publication/2026-DATE)
+
+**面向跨数据集自适应的 MoE 运行时可切换量化**  
+`DATE 2026`
+
+[![Paper](https://img.shields.io/badge/Paper-Project%20Page-0891B2?style=flat-square&logo=readthedocs&logoColor=white)](https://zhengzihaopku.github.io/publication/2026-DATE)
+
+</td>
+</tr>
+</table>
+
 <details>
 <summary><b>更多项目与研究资源</b></summary>
 <br/>
@@ -101,12 +147,12 @@
 
 ## 🎓 教育与研究经历
 
-| 时间                         | 经历                                                | 研究方向                              |
-| :--------------------------- | :-------------------------------------------------- | :------------------------------------ |
-| **2025 – 至今**       | **计算机科学博士研究生**，北京大学            | 计算机体系结构 · 物理智能 · AI 系统 |
-| **2024.01 – 2024.07** | **研究实习生**，清华大学智能产业研究院（AIR） | 硬件友好神经网络 · 端侧 LLM 推理     |
-| **2022 – 2025**       | **电子信息硕士**，北京大学                    | 存内计算 · 计算机体系结构            |
-| **2018 – 2022**       | **电气工程及其自动化学士**，北京交通大学      | 电气工程 · 智能系统                  |
+| 时间 | 经历 | 研究方向 |
+|:---|:---|:---|
+| **2025 – 至今** | **计算机科学博士研究生**，北京大学 | 计算机体系结构 · 物理智能 · AI 系统 |
+| **2024.01 – 2024.07** | **研究实习生**，清华大学智能产业研究院（AIR） | 硬件友好神经网络 · 端侧 LLM 推理 |
+| **2022 – 2025** | **电子信息硕士**，北京大学 | 存内计算 · 计算机体系结构 |
+| **2018 – 2022** | **电气工程及其自动化学士**，北京交通大学 | 电气工程 · 智能系统 |
 
 ---
 
@@ -116,16 +162,15 @@
 - 🎓 **北京市优秀毕业生** — **Top 2%**。
 - ⭐ **北京大学五四奖学金** — 全院仅 **2 人**。
 
-`<sub>`更多奖励与学术经历请见我的 `<a href="https://zhengzihaopku.github.io/cv/">`CV`</a>`。`</sub>`
-
+<sub>更多奖励与学术经历请见我的 <a href="https://zhengzihaopku.github.io/cv/">CV</a>。</sub>
 
 ---
 
 <div align="center">
 
-`<code>`From models to systems, from silicon to robots.`</code>`
+<code>From models to systems, from silicon to robots.</code>
 
-`<br/><br/>`
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:312E81,100:0D1117&height=100&section=footer" />
 

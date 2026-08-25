@@ -166,36 +166,6 @@ A system substrate for building embodied intelligence across heterogeneous robot
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,linux,docker,git,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CUDA-GPU%20Computing-0D1117?style=flat-square&logo=nvidia&logoColor=76B900" />
-  <img src="https://img.shields.io/badge/Triton-Kernel%20Optimization-0D1117?style=flat-square&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Verilog-Hardware%20Design-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-Systems-0D1117?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Deployment-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zhengzihaoPKU&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zhengzihaoPKU&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 <code>From models to systems, from silicon to robots.</code>
