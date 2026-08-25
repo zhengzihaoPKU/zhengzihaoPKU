@@ -64,28 +64,22 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 <div align="center">
 
 <a href="https://github.com/syswonder/robonix">
-  <img height="145" src="./profile/projects/robonix.svg" />
+  <img width="420" height="145" src="./profile/projects/robonix.svg" />
 </a>
 <a href="https://github.com/zhengzihaoPKU/KERV">
-  <img height="145" src="./profile/projects/kerv.svg" />
+  <img width="420" height="145" src="./profile/projects/kerv.svg" />
 </a>
 
 <br/>
 
 <a href="https://github.com/zhengzihaoPKU/RoboECC">
-  <img height="145" src="./profile/projects/roboecc.svg" />
+  <img width="420" height="145" src="./profile/projects/roboecc.svg" />
 </a>
 <a href="https://github.com/zhengzihaoPKU/A-Pilot-Quant-Deployment-for-Edge-MoEs">
-  <img height="145" src="./profile/projects/edge-moe.svg" />
+  <img width="420" height="145" src="./profile/projects/edge-moe.svg" />
 </a>
 
 </div>
-
-<p align="center">
-  <a href="https://zhengzihaopku.github.io/publication/2026-DAC"><img src="https://img.shields.io/badge/KERV-DAC%202026-4F46E5?style=flat-square&logo=readthedocs&logoColor=white" /></a>
-  <a href="https://zhengzihaopku.github.io/publication/2026-IJCNN"><img src="https://img.shields.io/badge/RoboECC-IJCNN%202026-0369A1?style=flat-square&logo=readthedocs&logoColor=white" /></a>
-  <a href="https://zhengzihaopku.github.io/publication/2026-DATE"><img src="https://img.shields.io/badge/DynaMo-DATE%202026-0E7490?style=flat-square&logo=readthedocs&logoColor=white" /></a>
-</p>
 
 <details>
 <summary><b>More projects & research resources</b></summary>
