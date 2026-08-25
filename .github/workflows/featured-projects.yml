@@ -26,7 +26,7 @@ jobs:
         with:
           card: pin
           options: >-
-            username=syswonder&repo=robonix&show_owner=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
+            username=syswonder&repo=robonix&description_lines_count=3&show_owner=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
           path: profile/projects/robonix.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -36,7 +36,7 @@ jobs:
         with:
           card: pin
           options: >-
-            username=zhengzihaoPKU&repo=KERV&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
+            username=zhengzihaoPKU&repo=KERV&description_lines_count=3&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
           path: profile/projects/kerv.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -46,7 +46,7 @@ jobs:
         with:
           card: pin
           options: >-
-            username=zhengzihaoPKU&repo=RoboECC&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
+            username=zhengzihaoPKU&repo=RoboECC&description_lines_count=3&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
           path: profile/projects/roboecc.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -56,7 +56,7 @@ jobs:
         with:
           card: pin
           options: >-
-            username=zhengzihaoPKU&repo=A-Pilot-Quant-Deployment-for-Edge-MoEs&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
+            username=zhengzihaoPKU&repo=A-Pilot-Quant-Deployment-for-Edge-MoEs&description_lines_count=3&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
           path: profile/projects/edge-moe.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
