@@ -8,12 +8,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Building+Efficient+AI+for+the+Physical+World;Vision-Language-Action+%C2%B7+Embodied+Intelligence;Efficient+Inference+%C2%B7+Quantization+%C2%B7+Speculative+Decoding;Edge-Cloud+%C2%B7+Heterogeneous+Computing+%C2%B7+AI+Systems" alt="Typing SVG" />
 </a>
 
-<br/>
-
-`<a href="https://zhengzihaopku.github.io/"><img src="https://img.shields.io/badge/Homepage-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" />``</a>`
-`<a href="https://scholar.google.com/citations?user=p5Ft_qEAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=22D3EE" />``</a>`
-`<a href="https://orcid.org/0009-0008-4624-2853"><img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=A78BFA" />``</a>`
-`<img src="https://komarev.com/ghpvc/?username=zhengzihaoPKU&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge&abbreviated=true" alt="Profile views" />`
+<p align="center">
+<a href="https://zhengzihaopku.github.io/">
+  <img src="https://img.shields.io/badge/Homepage-0D1117.svg?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&v=2" />
+</a>
+<a href="https://scholar.google.com/citations?user=p5Ft_qEAAAAJ">
+  <img src="https://img.shields.io/badge/Google%20Scholar-0D1117.svg?style=for-the-badge&logo=googlescholar&logoColor=22D3EE&v=2" />
+</a>
+<a href="https://orcid.org/0009-0008-4624-2853">
+  <img src="https://img.shields.io/badge/ORCID-0D1117.svg?style=for-the-badge&logo=orcid&logoColor=A78BFA&v=2" />
+</a>
+<a href="https://github.com/zhengzihaoPKU">
+  <img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=for-the-badge&logo=github&logoColor=FFFFFF&v=2" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=zhengzihaoPKU&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge&abbreviated=true" />
+</p>
 
 **Ph.D. Student @ Peking University**
 *Building efficient, deployable, and adaptive AI systems for intelligent agents in the physical world.*
@@ -21,6 +30,7 @@
 </div>
 
 ---
+## Code Contribution
 
 <p align="center">
   <picture>
@@ -78,12 +88,6 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 </a>
 
 </div>
-
-<p align="center">
-  <a href="https://zhengzihaopku.github.io/publication/2026-DAC"><img src="https://img.shields.io/badge/KERV-DAC%202026-4F46E5?style=flat-square&logo=readthedocs&logoColor=white" /></a>
-  <a href="https://zhengzihaopku.github.io/publication/2026-IJCNN"><img src="https://img.shields.io/badge/RoboECC-IJCNN%202026-0369A1?style=flat-square&logo=readthedocs&logoColor=white" /></a>
-  <a href="https://zhengzihaopku.github.io/publication/2026-DATE"><img src="https://img.shields.io/badge/DynaMo-DATE%202026-0E7490?style=flat-square&logo=readthedocs&logoColor=white" /></a>
-</p>
 
 <details>
 <summary><b>More projects & research resources</b></summary>
