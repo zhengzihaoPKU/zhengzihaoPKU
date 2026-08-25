@@ -1,10 +1,5 @@
 <!-- ======================= Zihao Zheng · GitHub Profile ======================= -->
 
-<p align="right">
-  <a href="./README.md"><img src="https://img.shields.io/badge/English-22D3EE?style=flat-square&logo=googletranslate&logoColor=0D1117" /></a>
-  <a href="./README_CN.md"><img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-0D1117?style=flat-square&logo=googletranslate&logoColor=22D3EE" /></a>
-</p>
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:0891B2&height=230&section=header&text=Zihao%20Zheng&fontSize=50&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=Physical%20Intelligence%20%C2%B7%20AI%20Systems%20%C2%B7%20System%20Design%20Automation&descAlignY=57&descSize=17" />
@@ -29,6 +24,16 @@
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhengzihaoPKU/zhengzihaoPKU/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhengzihaoPKU/zhengzihaoPKU/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/zhengzihaoPKU/zhengzihaoPKU/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
 ## 👋 About Me
 
 I am a Ph.D. student at the **School of Computer Science, Peking University**, advised by **Prof. Hong Mei** and **Prof. Xiang Chen**.
@@ -38,50 +43,19 @@ My research lies at the intersection of **Physical Intelligence**, **AI Systems*
 Before my Ph.D., I received my master's degree from Peking University, where I worked on **in-memory computing** and **computer architecture**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VLA-Efficient%20Inference-312E81?style=flat-square" />
-  <img src="https://img.shields.io/badge/Runtime-Speculative%20Decoding-4F46E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/MoE-Quantization-0369A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deployment-Edge--Cloud-0E7490?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Efficient%20Inference-312E81?style=flat-square" />
+  <img src="https://img.shields.io/badge/IC-Accelerators-0E7490?style=flat-square" />
+  <img src="https://img.shields.io/badge/SDA-System%20Design%20Automation-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Robot-Physical%20Intelligence-0369A1?style=flat-square" />
 </p>
 
 ---
 
-## 🧠 Research at a Glance
+## 🧠 Research Topics
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🤖 Physical Intelligence
-`VLA` · `VLM` · `WAM`
-
-Embodied AI  
-Edge-Cloud Deployment  
-Embodied Runtime / OS
-
-</td>
-<td width="34%" align="center" valign="top">
-
-### ⚡ AI Systems
-`Inference` · `Runtime` · `On-Device`
-
-Efficient Inference  
-Quantization  
-Speculative Decoding
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🧩 System Design Automation
-`DSE` · `AutoML` · `Optimization`
-
-Design Space Exploration  
-Automated Optimization  
-Energy-Efficient Computing
-
-</td>
-</tr>
-</table>
+* 🤖 Physical Intelligence: Real-time Deployment, Acceleration and Operating System Design
+* ⚡ AI Systems: Inference Acceleration, Model Lightweight and Runtime Optimization
+* 🧩 System Design Automation: Design Space Exploration and Automated Optimization 
 
 ---
 
@@ -141,26 +115,14 @@ Energy-Efficient Computing
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhengzihaoPKU/zhengzihaoPKU/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhengzihaoPKU/zhengzihaoPKU/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/zhengzihaoPKU/zhengzihaoPKU/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
----
-
 ## 🎓 Experience
 
 | Period | Experience | Focus |
 |:---|:---|:---|
-| **2025 – Present** | **Ph.D. in Computer Science**, Peking University | Computer Architecture · Physical Intelligence · AI Systems |
+| **2025.07 – Present** | **Ph.D. in Computer Science**, Peking University | Computer Architecture · Physical Intelligence · AI Systems |
 | **2024.01 – 2024.07** | **Research Intern**, Institute for AI Industry Research (AIR), Tsinghua University | Hardware-Friendly Neural Networks · On-Device LLM Inference |
-| **2022 – 2025** | **M.S. in Electronic Information**, Peking University | In-Memory Computing · Computer Architecture |
-| **2018 – 2022** | **B.S. in Electrical Engineering and Automation**, Beijing Jiaotong University | Electrical Engineering · Intelligent Systems |
+| **2022.09 – 2025.07** | **M.S. in Electronic Information**, Peking University | In-Memory Computing · Computer Architecture |
+| **2018.09 – 2022.07** | **B.S. in Electrical Engineering and Automation**, Beijing Jiaotong University | Electrical Engineering · Intelligent Systems |
 
 ---
 
