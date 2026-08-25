@@ -74,19 +74,19 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 <div align="center">
 
 <a href="https://github.com/syswonder/robonix">
-  <img width="420" height="145" src="./profile/projects/robonix.svg" />
+  <img width="450" height="145" src="./profile/projects/robonix.svg" />
 </a>
 <a href="https://github.com/zhengzihaoPKU/KERV">
-  <img width="420" height="145" src="./profile/projects/kerv.svg" />
+  <img width="450" height="145" src="./profile/projects/kerv.svg" />
 </a>
 
 <br/>
 
 <a href="https://github.com/zhengzihaoPKU/RoboECC">
-  <img width="420" height="145" src="./profile/projects/roboecc.svg" />
+  <img width="450" height="145" src="./profile/projects/roboecc.svg" />
 </a>
 <a href="https://github.com/zhengzihaoPKU/A-Pilot-Quant-Deployment-for-Edge-MoEs">
-  <img width="420" height="145" src="./profile/projects/edge-moe.svg" />
+  <img width="450" height="145" src="./profile/projects/edge-moe.svg" />
 </a>
 
 </div>
