@@ -10,14 +10,14 @@
 
 <br/>
 
-`<a href="https://zhengzihaopku.github.io/"><img src="https://img.shields.io/badge/Homepage-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" />``</a>`
-`<a href="https://scholar.google.com/citations?user=p5Ft_qEAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=22D3EE" />``</a>`
-`<a href="https://orcid.org/0009-0008-4624-2853"><img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=A78BFA" />``</a>`
-`<img src="https://komarev.com/ghpvc/?username=zhengzihaoPKU&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge&abbreviated=true" alt="Profile views" />`
+<a href="https://zhengzihaopku.github.io/"><img src="https://img.shields.io/badge/Homepage-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" /></a>
+<a href="https://scholar.google.com/citations?user=p5Ft_qEAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=22D3EE" /></a>
+<a href="https://orcid.org/0009-0008-4624-2853"><img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=A78BFA" /></a>
+<img src="https://komarev.com/ghpvc/?username=zhengzihaoPKU&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge&abbreviated=true" alt="Profile views" />
 
-`<br/><br/>`
+<br/><br/>
 
-**Ph.D. Student @ Peking University**
+**Ph.D. Student @ Peking University**  
 *Building efficient, deployable, and adaptive AI systems for intelligent agents in the physical world.*
 
 </div>
@@ -42,8 +42,6 @@ My research lies at the intersection of **Physical Intelligence**, **AI Systems*
 
 Before my Ph.D., I received my master's degree from Peking University, where I worked on **in-memory computing** and **computer architecture**.
 
-## Code Contribution
-
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Efficient%20Inference-312E81?style=flat-square" />
   <img src="https://img.shields.io/badge/IC-Accelerators-0E7490?style=flat-square" />
@@ -57,24 +55,74 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 
 * 🤖 Physical Intelligence: Real-time Deployment, Acceleration and Operating System Design
 * ⚡ AI Systems: Inference Acceleration, Model Lightweight and Runtime Optimization
-* 🧩 System Design Automation: Design Space Exploration and Automated Optimization
+* 🧩 System Design Automation: Design Space Exploration and Automated Optimization 
 
 ---
 
 ## 🚀 Featured Projects
-* [KERV](https://github.com/zhengzihaoPKU/KERV) 
-* [RoboECC](https://github.com/zhengzihaoPKU/RoboECC)
-* [Robonix Deploy Toolkit](https://github.com/zhengzihaoPKU/Robonix-Deploy-Toolkit)
+
+<div align="center">
+
+<a href="https://github.com/syswonder/robonix">
+  <img height="145" src="./profile/projects/robonix.svg" />
+</a>
+<a href="https://github.com/zhengzihaoPKU/KERV">
+  <img height="145" src="./profile/projects/kerv.svg" />
+</a>
+
+<br/>
+
+<a href="https://github.com/zhengzihaoPKU/RoboECC">
+  <img height="145" src="./profile/projects/roboecc.svg" />
+</a>
+<a href="https://github.com/zhengzihaoPKU/A-Pilot-Quant-Deployment-for-Edge-MoEs">
+  <img height="145" src="./profile/projects/edge-moe.svg" />
+</a>
+
+</div>
+
+<p align="center">
+  <a href="https://zhengzihaopku.github.io/publication/2026-DAC"><img src="https://img.shields.io/badge/KERV-DAC%202026-4F46E5?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://zhengzihaopku.github.io/publication/2026-IJCNN"><img src="https://img.shields.io/badge/RoboECC-IJCNN%202026-0369A1?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://zhengzihaopku.github.io/publication/2026-DATE"><img src="https://img.shields.io/badge/DynaMo-DATE%202026-0E7490?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+</p>
+
+<details>
+<summary><b>More projects & research resources</b></summary>
+<br/>
+
+- **[Robonix Deploy Toolkit](https://github.com/zhengzihaoPKU/Robonix-Deploy-Toolkit)** — deployment utilities and examples for embodied AI systems.
+- **[Embodied-AI-Paper-Research](https://github.com/zhengzihaoPKU/Embodied-AI-Paper-Research)** — notes and paper collection for embodied AI research.
+
+</details>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/zhengzihaoPKU">
+  <img height="180" src="./profile/github-stats.svg" />
+</a>
+<a href="https://github.com/zhengzihaoPKU">
+  <img height="180" src="./profile/top-langs.svg" />
+</a>
+
+</div>
+
+<p align="center"><sub>Language statistics reflect code in public, non-fork repositories and are not a measure of proficiency.</sub></p>
+
 ---
 
 ## 🎓 Experience
 
-| Period                       | Experience                                                                               | Focus                                                        |
-| :--------------------------- | :--------------------------------------------------------------------------------------- | :----------------------------------------------------------- |
-| **2025.07 – Present** | **Ph.D. in Computer Science**, Peking University                                   | Computer Architecture · Physical Intelligence · AI Systems |
+| Period | Experience | Focus |
+|:---|:---|:---|
+| **2025.07 – Present** | **Ph.D. in Computer Science**, Peking University | Computer Architecture · Physical Intelligence · AI Systems |
 | **2024.01 – 2024.07** | **Research Intern**, Institute for AI Industry Research (AIR), Tsinghua University | Hardware-Friendly Neural Networks · On-Device LLM Inference |
-| **2022.09 – 2025.07** | **M.S. in Electronic Information**, Peking University                              | In-Memory Computing · Computer Architecture                 |
-| **2018.09 – 2022.07** | **B.S. in Electrical Engineering and Automation**, Beijing Jiaotong University     | Electrical Engineering · Intelligent Systems                |
+| **2022.09 – 2025.07** | **M.S. in Electronic Information**, Peking University | In-Memory Computing · Computer Architecture |
+| **2018.09 – 2022.07** | **B.S. in Electrical Engineering and Automation**, Beijing Jiaotong University | Electrical Engineering · Intelligent Systems |
 
 ---
 
@@ -84,8 +132,16 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 - 🎓 **Excellent Graduate of Beijing Municipality** — **Top 2%**.
 - ⭐ **Peking University May Fourth Scholarship** — only **2 students in the entire school**.
 
-`<sub>`More honors and academic experience are available on my `<a href="https://zhengzihaopku.github.io/cv/">`CV`</a>`.`</sub>`
+<sub>More honors and academic experience are available on my <a href="https://zhengzihaopku.github.io/cv/">CV</a>.</sub>
+
+---
 
 <div align="center">
+
+<code>From models to systems, from silicon to robots.</code>
+
+<br/><br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:312E81,100:0D1117&height=105&section=footer" />
+
 </div>

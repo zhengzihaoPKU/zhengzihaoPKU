@@ -1,0 +1,59 @@
+name: Update GitHub Overview Cards
+
+on:
+  schedule:
+    # 00:10 UTC every day
+    - cron: "10 0 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: profile-card-updates
+  cancel-in-progress: false
+
+jobs:
+  update-overview:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: >-
+            username=zhengzihaoPKU&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&ring_color=22D3EE&rank_icon=github&border_radius=12
+          path: profile/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate Most Used Languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: >-
+            username=zhengzihaoPKU&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_radius=12&custom_title=Most%20Used%20Languages
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit updated overview cards
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/github-stats.svg profile/top-langs.svg
+
+          if git diff --cached --quiet; then
+            echo "GitHub overview cards are already up to date."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub overview cards"
+          git pull --rebase
+          git push
