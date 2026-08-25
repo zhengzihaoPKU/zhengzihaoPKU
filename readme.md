@@ -133,13 +133,13 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 - 🎓 **Excellent Graduate of Beijing Municipality** — **Top 2%**.
 - ⭐ **Peking University May Fourth Scholarship** — only **2 students in the entire school**.
 
-`<sub>`More honors and academic experience are available on my `<a href="https://zhengzihaopku.github.io/cv/">`CV `</a>`.`</sub>`
+More honors and academic experience are available on my [CV](https://zhengzihaopku.github.io/cv/).
 
 ---
 
 <div align="center">
 
-`<code>`From models to systems, from silicon to robots.`</code>`
+From models to systems, from silicon to robots.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:312E81,100:0D1117&height=105&section=footer" />
 
