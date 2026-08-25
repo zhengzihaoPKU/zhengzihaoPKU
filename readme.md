@@ -33,7 +33,6 @@
 </a>
 
 **Ph.D. Student @ Peking University**
-*Building efficient, deployable, and adaptive AI systems for intelligent agents in the physical world.*
 
 </div>
 

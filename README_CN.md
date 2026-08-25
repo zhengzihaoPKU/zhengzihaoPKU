@@ -30,8 +30,7 @@
   <img src="https://img.shields.io/github/followers/zhengzihaoPKU?style=for-the-badge&logo=github&label=Follow&labelColor=0D1117&color=0D1117" />
 </a>
 
-**北京大学 · 计算机学院博士研究生**  
-*面向物理世界中的智能体，研究高效、可部署、自适应的人工智能系统。*
+**北京大学 · 计算机学院博士研究生**
 
 </div>
 
