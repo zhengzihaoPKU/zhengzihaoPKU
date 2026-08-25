@@ -1,5 +1,7 @@
 <!-- ========================================================= -->
+
 <!--                 Zihao Zheng · GitHub Profile              -->
+
 <!-- ========================================================= -->
 
 <p align="right">
@@ -30,9 +32,9 @@
   <img src="https://img.shields.io/github/followers/zhengzihaoPKU?style=for-the-badge&logo=github&label=Follow&labelColor=0D1117&color=0D1117" />
 </a>
 
-<br/><br/>
+`<br/><br/>`
 
-**Ph.D. Student @ Peking University**  
+**Ph.D. Student @ Peking University**
 *Building efficient, deployable, and adaptive AI systems for intelligent agents in the physical world.*
 
 </div>
@@ -60,12 +62,12 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 
 <div align="center">
 
-| 🤖 **Physical Intelligence** | ⚡ **AI Systems** | 🧩 **System Design Automation** |
-|:---:|:---:|:---:|
-| VLA / VLM / WAM | Efficient Inference | Design Space Exploration |
-| Embodied AI | Quantization | AutoML |
-| Edge-Cloud Deployment | Speculative Decoding | Automated Optimization |
-| Embodied Runtime / OS | On-Device AI | Energy-Efficient Computing |
+| 🤖**Physical Intelligence** | ⚡**AI Systems** | 🧩**System Design Automation** |
+| :-------------------------------: | :--------------------: | :----------------------------------: |
+|          VLA / VLM / WAM          |  Efficient Inference  |       Design Space Exploration       |
+|            Embodied AI            |      Quantization      |                AutoML                |
+|       Edge-Cloud Deployment       |  Speculative Decoding  |        Automated Optimization        |
+|       Embodied Runtime / OS       |      On-Device AI      |      Energy-Efficient Computing      |
 
 </div>
 
@@ -86,54 +88,6 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Robonix](https://github.com/syswonder/robonix)
-
-**Embodied AI Operating System**
-
-A system substrate for building embodied intelligence across heterogeneous robots.
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/syswonder/robonix)
-[![Website](https://img.shields.io/badge/Project-robonix.ai-0891B2?style=flat-square&logo=googlechrome&logoColor=white)](https://robonix.ai/)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [KERV](https://zhengzihaopku.github.io/publication/2026-DAC)
-
-**Kinematic-Rectified Speculative Decoding for Embodied VLA Models**  
-`DAC 2026`
-
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/zhengzihaoPKU/KERV)
-[![Paper](https://img.shields.io/badge/Paper-Project%20Page-4F46E5?style=flat-square&logo=readthedocs&logoColor=white)](https://zhengzihaopku.github.io/publication/2026-DAC)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ [RoboECC](https://zhengzihaopku.github.io/publication/2026-IJCNN)
-
-**Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models**  
-`IJCNN 2026`
-
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/zhengzihaoPKU/RoboECC)
-[![Paper](https://img.shields.io/badge/Paper-Project%20Page-0284C7?style=flat-square&logo=readthedocs&logoColor=white)](https://zhengzihaopku.github.io/publication/2026-IJCNN)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧮 [DynaMo](https://zhengzihaopku.github.io/publication/2026-DATE)
-
-**Runtime Switchable Quantization for MoE with Cross-Dataset Adaptation**  
-`DATE 2026`
-
-[![Paper](https://img.shields.io/badge/Paper-Project%20Page-0891B2?style=flat-square&logo=readthedocs&logoColor=white)](https://zhengzihaopku.github.io/publication/2026-DATE)
-
-</td>
-</tr>
-</table>
-
 <details>
 <summary><b>More projects & research resources</b></summary>
 <br/>
@@ -147,12 +101,12 @@ A system substrate for building embodied intelligence across heterogeneous robot
 
 ## 🎓 Experience
 
-| Period | Experience | Focus |
-|:---|:---|:---|
-| **2025 – Present** | **Ph.D. in Computer Science**, Peking University | Computer Architecture · Physical Intelligence · AI Systems |
+| Period                       | Experience                                                                               | Focus                                                        |
+| :--------------------------- | :--------------------------------------------------------------------------------------- | :----------------------------------------------------------- |
+| **2025 – Present**    | **Ph.D. in Computer Science**, Peking University                                   | Computer Architecture · Physical Intelligence · AI Systems |
 | **2024.01 – 2024.07** | **Research Intern**, Institute for AI Industry Research (AIR), Tsinghua University | Hardware-Friendly Neural Networks · On-Device LLM Inference |
-| **2022 – 2025** | **M.S. in Electronic Information**, Peking University | In-Memory Computing · Computer Architecture |
-| **2018 – 2022** | **B.S. in Electrical Engineering and Automation**, Beijing Jiaotong University | Electrical Engineering · Intelligent Systems |
+| **2022 – 2025**       | **M.S. in Electronic Information**, Peking University                              | In-Memory Computing · Computer Architecture                 |
+| **2018 – 2022**       | **B.S. in Electrical Engineering and Automation**, Beijing Jiaotong University     | Electrical Engineering · Intelligent Systems                |
 
 ---
 
@@ -162,16 +116,12 @@ A system substrate for building embodied intelligence across heterogeneous robot
 - 🎓 **Excellent Graduate of Beijing Municipality** — **Top 2%**.
 - ⭐ **Peking University May Fourth Scholarship** — only **2 students in the entire school**.
 
-<sub>More honors and academic experience are available on my <a href="https://zhengzihaopku.github.io/cv/">CV</a>.</sub>
+`<sub>`More honors and academic experience are available on my `<a href="https://zhengzihaopku.github.io/cv/">`CV`</a>`.`</sub>`
 
 ---
 
 <div align="center">
-
-<code>From models to systems, from silicon to robots.</code>
-
-<br/><br/>
+`<code>`From models to systems, from silicon to robots.`</code>`
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:312E81,100:0D1117&height=100&section=footer" />
-
 </div>
