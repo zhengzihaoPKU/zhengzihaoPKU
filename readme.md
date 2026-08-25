@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/github/followers/zhengzihaoPKU?style=for-the-badge&logo=github&label=Follow&labelColor=0D1117&color=0D1117" />
 </a>
 
-`<br/><br/>`
-
 **Ph.D. Student @ Peking University**
 *Building efficient, deployable, and adaptive AI systems for intelligent agents in the physical world.*
 
@@ -64,7 +62,7 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 
 | 🤖**Physical Intelligence** | ⚡**AI Systems** | 🧩**System Design Automation** |
 | :-------------------------------: | :--------------------: | :----------------------------------: |
-|          VLA / VLM / WAM          |  Efficient Inference  |       Design Space Exploration       |
+|          VLA / VLM / WAM          |  Efficient Inference   |       Design Space Exploration       |
 |            Embodied AI            |      Quantization      |                AutoML                |
 |       Edge-Cloud Deployment       |  Speculative Decoding  |        Automated Optimization        |
 |       Embodied Runtime / OS       |      On-Device AI      |      Energy-Efficient Computing      |
