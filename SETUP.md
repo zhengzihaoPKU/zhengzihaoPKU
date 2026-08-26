@@ -6,6 +6,7 @@ Upload these files into your profile repository `zhengzihaoPKU/zhengzihaoPKU`:
 README.md
 .github/workflows/featured-projects.yml
 .github/workflows/github-overview.yml
+.github/workflows/snake.yml
 ```
 
 The workflows will create these generated files automatically:
@@ -23,13 +24,14 @@ profile/
 
 ## First run
 
-1. Commit all files to the default branch (`main`).
+1. Commit all files to the default branch (`master`).
 2. Open **Actions**.
 3. Run **Update Featured Project Cards** → **Run workflow**.
 4. Run **Update GitHub Overview Cards** → **Run workflow**.
-5. Return to the repository. The generated SVG files will be committed automatically.
+5. Run **Generate Contribution Snake** → **Run workflow**.
+6. Return to the repository. The generated SVG files will be committed automatically.
 
-Both workflows also run once per day.
+All three workflows also run once per day.
 
 ## If push is denied
 
