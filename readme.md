@@ -112,7 +112,7 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 
 </div>
 
-<p align="center"><sub>Language statistics reflect code in public, non-fork repositories and are not a measure of proficiency.</sub></p>
+<p align="center"><sub>Language statistics reflect code in public, non-fork repositories. Web, notebook, and shell languages are omitted to highlight core implementation languages; the chart is not a measure of proficiency.</sub></p>
 
 ---
 

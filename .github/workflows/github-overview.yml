@@ -4,6 +4,11 @@ on:
   schedule:
     # 00:10 UTC every day
     - cron: "10 0 * * *"
+  push:
+    branches:
+      - master
+    paths:
+      - ".github/workflows/github-overview.yml"
   workflow_dispatch:
 
 concurrency:
@@ -36,7 +41,7 @@ jobs:
         with:
           card: top-langs
           options: >-
-            username=zhengzihaoPKU&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_radius=12&custom_title=Most%20Used%20Languages
+            username=zhengzihaoPKU&layout=compact&langs_count=7&hide=html,javascript,scss,jupyter%20notebook,shell&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_radius=12&custom_title=Most%20Used%20Languages
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
