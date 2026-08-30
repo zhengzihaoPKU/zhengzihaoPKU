@@ -17,9 +17,11 @@ profile/
 ├── top-langs.svg
 └── projects/
     ├── robonix.svg
-    ├── kerv.svg
     ├── roboecc.svg
-    └── edge-moe.svg
+    ├── kerv.svg
+    ├── awesome-embodied-trustworthy-execution.svg
+    ├── edge-moe.svg
+    └── circuit-modules-compendium.svg
 ```
 
 ## First run

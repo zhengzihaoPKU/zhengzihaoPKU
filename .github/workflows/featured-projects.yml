@@ -4,6 +4,11 @@ on:
   schedule:
     # 00:25 UTC every day
     - cron: "25 0 * * *"
+  push:
+    branches:
+      - master
+    paths:
+      - ".github/workflows/featured-projects.yml"
   workflow_dispatch:
 
 concurrency:
@@ -31,16 +36,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Generate KERV card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: >-
-            username=zhengzihaoPKU&repo=KERV&description_lines_count=2&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
-          path: profile/projects/kerv.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
       - name: Generate RoboECC card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -51,6 +46,26 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Generate KERV card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: >-
+            username=zhengzihaoPKU&repo=KERV&description_lines_count=2&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
+          path: profile/projects/kerv.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate Awesome Embodied Trustworthy Execution card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: >-
+            username=zhengzihaoPKU&repo=Awesome-Embodied-Trustworthy-Execution&description_lines_count=2&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
+          path: profile/projects/awesome-embodied-trustworthy-execution.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
       - name: Generate Edge MoE card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -58,6 +73,16 @@ jobs:
           options: >-
             username=zhengzihaoPKU&repo=A-Pilot-Quant-Deployment-for-Edge-MoEs&description_lines_count=2&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
           path: profile/projects/edge-moe.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate Circuit Modules Compendium card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: >-
+            username=zhengzihaoPKU&repo=Circuit-Modules-Compendium&description_lines_count=2&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_radius=12
+          path: profile/projects/circuit-modules-compendium.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 

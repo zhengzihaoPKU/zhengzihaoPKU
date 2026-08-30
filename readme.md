@@ -76,14 +76,20 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 <a href="https://github.com/syswonder/robonix">
   <img width="420" height="145" src="./profile/projects/robonix.svg" alt="Robonix project card" />
 </a>
-<a href="https://github.com/zhengzihaoPKU/KERV">
-  <img width="420" height="145" src="./profile/projects/kerv.svg" alt="KERV project card" />
-</a>
 <a href="https://github.com/zhengzihaoPKU/RoboECC">
   <img width="420" height="145" src="./profile/projects/roboecc.svg" alt="RoboECC project card" />
 </a>
+<a href="https://github.com/zhengzihaoPKU/KERV">
+  <img width="420" height="145" src="./profile/projects/kerv.svg" alt="KERV project card" />
+</a>
+<a href="https://github.com/zhengzihaoPKU/Awesome-Embodied-Trustworthy-Execution">
+  <img width="420" height="145" src="./profile/projects/awesome-embodied-trustworthy-execution.svg" alt="Awesome Embodied Trustworthy Execution project card" />
+</a>
 <a href="https://github.com/zhengzihaoPKU/A-Pilot-Quant-Deployment-for-Edge-MoEs">
   <img width="420" height="145" src="./profile/projects/edge-moe.svg" alt="Edge MoE deployment project card" />
+</a>
+<a href="https://github.com/zhengzihaoPKU/Circuit-Modules-Compendium">
+  <img width="420" height="145" src="./profile/projects/circuit-modules-compendium.svg" alt="Circuit Modules Compendium project card" />
 </a>
 
 </div>
@@ -112,7 +118,7 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 
 </div>
 
-<p align="center"><sub>Language statistics reflect code in public, non-fork repositories. Web, notebook, and shell languages are omitted to highlight core implementation languages; the chart is not a measure of proficiency.</sub></p>
+<p align="center"><sub>Language statistics reflect code in public, non-fork repositories. Selected web, notebook, and shell languages are omitted to highlight core implementation languages; the chart is not a measure of proficiency.</sub></p>
 
 ---
 
