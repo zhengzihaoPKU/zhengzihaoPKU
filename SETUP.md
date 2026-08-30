@@ -35,6 +35,9 @@ profile/
 
 All three workflows also run once per day.
 
+Featured-project titles longer than 32 characters are shortened with `...`
+after the cards are generated.
+
 ## If push is denied
 
 Open:
