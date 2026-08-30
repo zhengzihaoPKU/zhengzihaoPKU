@@ -99,7 +99,13 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 <br/>
 
 - **[Robonix Deploy Toolkit](https://github.com/zhengzihaoPKU/Robonix-Deploy-Toolkit)** — deployment utilities and examples for embodied AI systems.
+- **[LiteDeploy](https://github.com/zhengzihaoPKU/LiteDeploy)** — a pure C++ LLM inference engine built with ONNX Runtime and tokenizers-cpp.
+- **[Gemma-Finetune](https://github.com/zhengzihaoPKU/Gemma-Finetune)** — LoRA-based fine-tuning workflows for translating text into emojis with Gemma 3 270M.
+- **[LightAI Course](https://github.com/zhengzihaoPKU/LightAI_Course)** — hands-on examples for neural-network pruning, quantization, and knowledge distillation.
+- **[CppPrimerPlus6](https://github.com/zhengzihaoPKU/CppPrimerPlus6)** — C++ learning examples covering Chapters 2–18 of *C++ Primer Plus (6th Edition)*.
+- **[CMake Learning](https://github.com/zhengzihaoPKU/CMake_Learning)** — small and medium CMake learning projects, including a GoogleTest example.
 - **[Embodied-AI-Paper-Research](https://github.com/zhengzihaoPKU/Embodied-AI-Paper-Research)** — notes and paper collection for embodied AI research.
+- **[Personal Academic Website](https://github.com/zhengzihaoPKU/zhengzihaoPKU.github.io)** — source code for my academic homepage and publication portfolio.
 
 </details>
 
@@ -118,7 +124,7 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 
 </div>
 
-<p align="center"><sub>Language statistics reflect code in public, non-fork repositories. Selected web, notebook, and shell languages are omitted to highlight core implementation languages; the chart is not a measure of proficiency.</sub></p>
+<p align="center"><sub>Total Stars includes stars from the Robonix repository. Language statistics reflect code in public, non-fork repositories. Selected web, notebook, and shell languages are omitted to highlight core implementation languages; the chart is not a measure of proficiency.</sub></p>
 
 ---
 

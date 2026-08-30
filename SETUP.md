@@ -38,6 +38,9 @@ All three workflows also run once per day.
 Featured-project titles longer than 32 characters are shortened with `...`
 after the cards are generated.
 
+The GitHub overview workflow fetches the live star count for
+`syswonder/robonix` and adds it to the generated Total Stars value.
+
 ## If push is denied
 
 Open:

@@ -9,6 +9,7 @@ on:
       - master
     paths:
       - ".github/workflows/github-overview.yml"
+      - "scripts/include_external_repo_stars.py"
   workflow_dispatch:
 
 concurrency:
@@ -35,6 +36,14 @@ jobs:
           path: profile/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      - name: Include Robonix stars
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+          python3 scripts/include_external_repo_stars.py
+          --repo syswonder/robonix
+          profile/github-stats.svg
 
       - name: Generate Most Used Languages card
         uses: stats-organization/github-readme-stats-action@v2
