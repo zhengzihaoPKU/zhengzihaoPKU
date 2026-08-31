@@ -2,8 +2,8 @@ name: Update Featured Project Cards
 
 on:
   schedule:
-    # 00:25 UTC every day
-    - cron: "25 0 * * *"
+    # Every 5 minutes (UTC)
+    - cron: "*/5 * * * *"
   push:
     branches:
       - master

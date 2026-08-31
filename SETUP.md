@@ -33,7 +33,8 @@ profile/
 5. Run **Generate Contribution Snake** → **Run workflow**.
 6. Return to the repository. The generated SVG files will be committed automatically.
 
-All three workflows also run once per day.
+All three workflows are configured to run every five minutes. GitHub Actions may
+delay scheduled runs during periods of high load.
 
 Featured-project titles longer than 32 characters are shortened with `...`
 after the cards are generated.

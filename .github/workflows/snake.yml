@@ -2,7 +2,8 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Every 5 minutes (UTC)
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
     branches:
