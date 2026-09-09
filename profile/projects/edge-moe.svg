@@ -27,8 +27,8 @@
     }
     .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434343 }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
-    .badge rect { opacity: 0.2; stroke: #C9D1D9 }
-    .badge text { fill: #C9D1D9 }
+    .badge rect { opacity: 0.2; stroke: #434343 }
+    .badge text { fill: #434343 }
 
     .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434343 }
     .stagger {
