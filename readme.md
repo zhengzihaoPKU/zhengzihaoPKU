@@ -2,26 +2,26 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:0891B2&height=230&section=header&text=Zihao%20Zheng&fontSize=50&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=Physical%20Intelligence%20%C2%B7%20AI%20Systems%20%C2%B7%20System%20Design%20Automation&descAlignY=57&descSize=17" alt="Zihao Zheng — Physical Intelligence, AI Systems, and System Design Automation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:600000,45:8C0000,100:B54A4A&height=230&section=header&text=Zihao%20Zheng&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Physical%20Intelligence%20%C2%B7%20AI%20Systems%20%C2%B7%20System%20Design%20Automation&descAlignY=57&descSize=17" alt="Zihao Zheng — Physical Intelligence, AI Systems, and System Design Automation" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Building+Efficient+AI+for+the+Physical+World;Vision-Language-Action+%C2%B7+Embodied+Intelligence;Efficient+Inference+%C2%B7+Quantization+%C2%B7+Speculative+Decoding;Edge-Cloud+%C2%B7+Heterogeneous+Computing+%C2%B7+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8C0000&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Building+Efficient+AI+for+the+Physical+World;Vision-Language-Action+%C2%B7+Embodied+Intelligence;Efficient+Inference+%C2%B7+Quantization+%C2%B7+Speculative+Decoding;Edge-Cloud+%C2%B7+Heterogeneous+Computing+%C2%B7+AI+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
 <a href="https://zhengzihaopku.github.io/">
-  <img src="https://img.shields.io/badge/Homepage-0D1117.svg?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&v=2" alt="Homepage" />
+  <img src="https://img.shields.io/badge/Homepage-8C0000.svg?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&v=3" alt="Homepage" />
 </a>
 <a href="https://scholar.google.com/citations?user=p5Ft_qEAAAAJ">
-  <img src="https://img.shields.io/badge/Google%20Scholar-0D1117.svg?style=for-the-badge&logo=googlescholar&logoColor=22D3EE&v=2" alt="Google Scholar" />
+  <img src="https://img.shields.io/badge/Google%20Scholar-8C0000.svg?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF&v=3" alt="Google Scholar" />
 </a>
 <a href="https://orcid.org/0009-0008-4624-2853">
-  <img src="https://img.shields.io/badge/ORCID-0D1117.svg?style=for-the-badge&logo=orcid&logoColor=A78BFA&v=2" alt="ORCID" />
+  <img src="https://img.shields.io/badge/ORCID-8C0000.svg?style=for-the-badge&logo=orcid&logoColor=FFFFFF&v=3" alt="ORCID" />
 </a>
 <a href="https://github.com/zhengzihaoPKU">
-  <img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=for-the-badge&logo=github&logoColor=FFFFFF&v=2" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-8C0000.svg?style=for-the-badge&logo=github&logoColor=FFFFFF&v=3" alt="GitHub" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=zhengzihaoPKU&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge&abbreviated=true" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=zhengzihaoPKU&label=PROFILE+VIEWS&color=8C0000&style=for-the-badge&abbreviated=true" alt="Profile views" />
 </p>
 
 **Ph.D. Student @ Peking University**
@@ -53,10 +53,10 @@ My research lies at the intersection of **Physical Intelligence**, **AI Systems*
 Before my Ph.D., I received my master's degree from Peking University, where I worked on **in-memory computing** and **computer architecture**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Efficient%20Inference-312E81?style=flat-square" alt="AI: Efficient Inference" />
-  <img src="https://img.shields.io/badge/IC-Accelerators-0E7490?style=flat-square" alt="Integrated Circuits: Accelerators" />
-  <img src="https://img.shields.io/badge/SDA-System%20Design%20Automation-4F46E5?style=flat-square" alt="System Design Automation" />
-  <img src="https://img.shields.io/badge/Robot-Physical%20Intelligence-0369A1?style=flat-square" alt="Robotics: Physical Intelligence" />
+  <img src="https://img.shields.io/badge/AI-Efficient%20Inference-8C0000?style=flat-square&labelColor=600000" alt="AI: Efficient Inference" />
+  <img src="https://img.shields.io/badge/IC-Accelerators-A63A3A?style=flat-square&labelColor=600000" alt="Integrated Circuits: Accelerators" />
+  <img src="https://img.shields.io/badge/SDA-System%20Design%20Automation-6F0000?style=flat-square&labelColor=600000" alt="System Design Automation" />
+  <img src="https://img.shields.io/badge/Robot-Physical%20Intelligence-B54A4A?style=flat-square&labelColor=600000" alt="Robotics: Physical Intelligence" />
 </p>
 
 ---
@@ -88,8 +88,8 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 <a href="https://github.com/zhengzihaoPKU/A-Pilot-Quant-Deployment-for-Edge-MoEs">
   <img width="420" height="145" src="./profile/projects/edge-moe.svg" alt="Edge MoE deployment project card" />
 </a>
-<a href="https://github.com/zhengzihaoPKU/Circuit-Modules-Compendium">
-  <img width="420" height="145" src="./profile/projects/circuit-modules-compendium.svg" alt="Circuit Modules Compendium project card" />
+<a href="https://github.com/flagos-ai/FlagScale">
+  <img width="420" height="145" src="./profile/projects/flagscale.svg" alt="FlagScale project card" />
 </a>
 
 </div>
@@ -124,7 +124,7 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 
 </div>
 
-<p align="center"><sub>Total Stars includes stars from the Robonix repository. Language statistics reflect code in public, non-fork repositories. Selected web, notebook, and shell languages are omitted to highlight core implementation languages; the chart is not a measure of proficiency.</sub></p>
+<p align="center"><sub>Total Stars includes stars from the Robonix and FlagScale repositories. Language statistics reflect code in public, non-fork repositories. Selected web, notebook, and shell languages are omitted to highlight core implementation languages; the chart is not a measure of proficiency.</sub></p>
 
 ---
 
@@ -153,6 +153,6 @@ More honors and academic experience are available on my [CV](https://zhengzihaop
 
 From models to systems, from silicon to robots.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:312E81,100:0D1117&height=105&section=footer" alt="Decorative footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B54A4A,45:8C0000,100:600000&height=105&section=footer" alt="Decorative footer" />
 
 </div>

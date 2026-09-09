@@ -9,12 +9,13 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zihao Zheng&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 672 Total Commits  : 285, Total PRs: 6, Total Issues: 0, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 1207 Total Commits  : 285, Total PRs: 6, Total Issues: 0, Contributed to (last year): 2</desc>
+        <!-- external-stars: flagos-ai/FlagScale=535 -->
         <!-- external-stars: syswonder/robonix=347 -->
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #22D3EE;
+            fill: #8C0000;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -23,7 +24,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C9D1D9;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434343;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -34,7 +35,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434343;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -47,18 +48,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #A78BFA;
+      fill: #A63A3A;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #22D3EE;
+      stroke: #8C0000;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #22D3EE;
+      stroke: #8C0000;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -110,10 +111,10 @@
           y="0.5"
           rx="12"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#EADADA"
           width="466"
-          fill="#0D1117"
-          stroke-opacity="0"
+          fill="#FFFFFF"
+          stroke-opacity="1"
         />
 
         
@@ -163,7 +164,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >672</text>
+      >1207</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
