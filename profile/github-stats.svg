@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zihao Zheng&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 1249 Total Commits  : 305, Total PRs: 8, Total Issues: 0, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 1250 Total Commits  : 305, Total PRs: 8, Total Issues: 0, Contributed to (last year): 2</desc>
         <!-- external-stars: flagos-ai/FlagScale=535 -->
         <!-- external-stars: syswonder/robonix=353 -->
         <style>
@@ -75,7 +75,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 155.31149513136586;
+        stroke-dashoffset: 155.28675798655692;
       }
     }
   
@@ -171,7 +171,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >1249</text>
+      >1250</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
