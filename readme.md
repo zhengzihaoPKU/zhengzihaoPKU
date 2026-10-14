@@ -118,15 +118,15 @@ Before my Ph.D., I received my master's degree from Peking University, where I w
 <div align="center">
 
 <a href="https://github.com/zhengzihaoPKU">
-  <img height="180" src="./profile/github-stats.svg" alt="Zihao Zheng's GitHub statistics" />
+  <img width="506" src="./profile/github-stats.svg" alt="Zihao Zheng's GitHub statistics" />
 </a>
 <a href="https://github.com/zhengzihaoPKU">
-  <img height="180" src="./profile/top-langs.svg" alt="Most-used languages in public repositories" />
+  <img width="334" src="./profile/top-langs.svg" alt="Most-used languages in public repositories" />
 </a>
 
 </div>
 
-<p align="center"><sub>Total Stars includes stars from the Robonix and FlagScale repositories. Language statistics reflect code in public, non-fork repositories. Selected web, notebook, and shell languages are omitted to highlight core implementation languages; the chart is not a measure of proficiency.</sub></p>
+<p align="center"><sub>Language statistics reflect code in public, non-fork repositories. Selected web, notebook, and shell languages are omitted to highlight core implementation languages; the chart is not a measure of proficiency.</sub></p>
 
 ---
 
