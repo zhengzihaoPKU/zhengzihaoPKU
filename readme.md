@@ -21,7 +21,9 @@
 <a href="https://github.com/zhengzihaoPKU">
   <img src="https://img.shields.io/badge/GitHub-8C0000.svg?style=for-the-badge&logo=github&logoColor=FFFFFF&v=3" alt="GitHub" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=zhengzihaoPKU&label=PROFILE+VIEWS&color=8C0000&style=for-the-badge&abbreviated=true" alt="Profile views" />
+<img src="./profile/profile-views.svg" alt="Profile views — latest recorded count" title="Latest recorded profile views; refreshed hourly" />
+<!-- Keep counting visits independently of the saved badge displayed above. -->
+<img src="https://komarev.com/ghpvc/?username=zhengzihaoPKU&amp;style=pixel" width="1" height="1" alt="" />
 </p>
 
 **Ph.D. Student @ Peking University**
